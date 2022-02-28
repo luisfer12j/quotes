@@ -1,12 +1,12 @@
 import './App.css';
-import Phrase from './components/Phrase'
+import QuoteBox from './components/QuoteBox'
 
 function App() {
   
 
   return (
     <div className="App">
-     <Phrase/>
+     <QuoteBox/>
     </div>
   );
 }
